@@ -13,7 +13,7 @@
 ```bash
 pip install flask
 
-运行 | Usage
+#### 运行 | Usage
 运行下面的命令来启动应用： | Run the following command to start the application:
 
 bash
@@ -21,7 +21,7 @@ Copy code
 python password_strength_tester.py
 应用将在 http://127.0.0.1:5000 上运行。 | The application will run on http://127.0.0.1:5000.
 
-贡献 | Contributing
+#### 贡献 | Contributing
 欢迎通过 Pull Requests 来贡献你的代码。 | Contributions are welcome through Pull Requests.
 
 许可证 | License
